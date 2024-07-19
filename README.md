@@ -23,10 +23,7 @@ HTML&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
   I'll update this as I learn and understand how to interact with the computer in more efficient ways
   <br>
   <br>
-  See ya around
-  <br>
-  <br>
-  <img src="https://github.com/user-attachments/assets/506f97ea-7ff9-43a0-a2de-3ad784c16f81" alt="pixel-skull" height="100px" width="100px">
+  See ya around&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/user-attachments/assets/506f97ea-7ff9-43a0-a2de-3ad784c16f81" alt="pixel-skull" height="100px" width="100px">
 
 
 
