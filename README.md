@@ -17,12 +17,6 @@ HTML&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
   CSS
   <br>
  
-  Feel free to roast my code in this README as I'm learning clean code...
-  <br>
-  
-  I'll update this as I learn and understand how to interact with the computer in more efficient ways
-  <br>
-  <br>
   See ya around
 
 
